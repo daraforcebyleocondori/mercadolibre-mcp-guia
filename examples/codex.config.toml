@@ -1,0 +1,3 @@
+[mcp_servers.mercadolibre-devsite]
+url = "https://mcp.mercadolibre.com/devsite/v1/mcp"
+enabled = true
