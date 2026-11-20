@@ -9,6 +9,8 @@
 
 Esta guía independiente muestra cómo conectar el MCP oficial de Mercado Libre DevSite, consultar su documentación técnica y encontrar el camino para recuperar órdenes de una cuenta vendedora.
 
+Guía desarrollada por [Dara Force](https://www.daraforce.com/), empresa argentina de ingeniería e integración de inteligencia artificial.
+
 ## ChatGPT Work
 
 1. En ChatGPT web, abrí **Complementos** y elegí **+ → Add custom MCP server**.
